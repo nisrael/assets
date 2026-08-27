@@ -1,0 +1,28 @@
+[english below]
+
+Jeden Donnerstag um 19:00 Uhr findet der Chaostreff in unserem Hackspace Rabbithole im AStA der Uni statt (Alte Münze 12). Jede*r ist herzlich dazu eingeladen, mit uns über Technik, Freie Software, Netzpolitik, Datensouveränität und viele weitere Themen zu sprechen.
+
+All creatures welcome!🏳️‍🌈🏳️‍⚧️
+
+Wir bieten regelmäßig Vorträge und Workshops zum Ausprobieren an, stellen unsere eigene, freie Serverlandschaft bereit und basteln gerne an (Hardware-) Projekten. Zudem betreiben wir https://osna.social, ein dezentrales soziales Netzwerk (ein Mastodon) und schaffen bunte Kunst im Hackspace.
+
+Wir freuen uns über jedes neue Gesicht in unserer Runde! Alle Termine und Informationen gibt es auch auf unserer Website:
+
+Website https://chaostreff-osnabrueck.de/de/
+E-Mail info@chaostreff-osnabrueck.de
+Mastodon https://chaos.social/%40chaostreff_osnabrueck
+
+
+[english]
+
+Every Thursday at 19:00 we meet in our hackspace Rabbithole in the AStA of the University (Alte Münze 12). Everyone is invited to chat with us about topics like technology, free software, internet politics, data sovereignty and much more.
+
+All creatures welcome!🏳️‍🌈🏳️‍⚧️
+
+We also regulary offer talks and workshops to try out things, we host our own servers and we like to tinker with (hardware-) projects. In addition, we operate https://osna.social, a decentralized social network (Mastodon) and create colourful art in our hackspace.
+
+We're excited about every new face in our group! All dates and information are also available on our website:
+
+Website https://chaostreff-osnabrueck.de/en/
+E-Mail info@chaostreff-osnabrueck.de
+Mastodon https://chaos.social/%40chaostreff_osnabrueck
